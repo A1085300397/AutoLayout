@@ -57,7 +57,8 @@
             android:layout_height="143px"
             android:layout_gravity="center_vertical"
             android:layout_marginRight="24px"
-            android:src="@drawable/wode_weixinzhifu"/>
+            android:src="@drawable/wode_weixinzhifu"
+            android:id="@+id/imageView" />
 
         <LinearLayout
             android:layout_width="0dp"
